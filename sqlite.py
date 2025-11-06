@@ -26,4 +26,7 @@ print("The printed records are: ")
 data = cursor.execute("SELECT * from students")
 for row in data:
     print(row)
+
+conn.commit()
+conn.close()
                
