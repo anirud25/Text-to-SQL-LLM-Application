@@ -12,7 +12,7 @@ The app is built with Streamlit and deployed on Hugging Face Spaces.
 
 Here is a brief demonstration of the app's capabilities:
 
-[![Run Text-to-SQL Demo on HuggingFace Spaces)](https://huggingface.co/spaces/pandaaaboy/Text-to-SQL-Gemini2.5Pro)]
+[![Run Text-to-SQL Demo on HuggingFace Spaces](https://huggingface.co/spaces/pandaaaboy/Text-to-SQL-Gemini2.5Pro)]
 ![Demo](https://github.com/anirud25/Text-to-SQL-LLM-Application/blob/master/Demo2.PNG)
 
 ---
