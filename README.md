@@ -67,8 +67,8 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/[YOUR_REPO_NAME].git
-    cd [YOUR_REPO_NAME]
+    git clone https://github.com/anirud25/Text-to-SQL-using-Gemini2.5Pro.git
+    cd Text-to-SQL-using-Gemini2.5Pro
     ```
 
 2.  **Create a virtual environment and install dependencies:**
